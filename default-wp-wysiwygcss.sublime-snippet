@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+.entry-content img {}
+.alignleft, img.alignleft {}
+.alignright, img.alignright {}
+.aligncenter, img.aligncenter {}
+.alignnone, img.alignnone {}
+
+.wp-caption {}
+.wp-caption img {}
+.wp-caption p.wp-caption-text {}
+
+.wp-smiley {}
+
+blockquote.left {}
+blockquote.right {}
+
+.gallery dl {}
+.gallery dt {}
+.gallery dd {}
+.gallery dl a {}
+.gallery dl img {}
+.gallery-caption {}
+
+.size-full {}
+.size-large {}
+.size-medium {}
+.size-thumbnail {}
+
+		]]></content>
+		<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+		<tabTrigger>wpcss-WYSIWYG-default-styles</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>source.css</scope>
+		<description>WYSIWYG Style - WordPress Default Class</description>
+	</snippet>
+

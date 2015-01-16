@@ -1,0 +1,22 @@
+	<snippet>
+		<content><![CDATA[
+			.post-id {}
+			.post {}
+			.page {}
+			.attachment {}
+			.sticky {}
+			.hentry {}
+			.category-misc {}
+			.category-example {}
+			.tag-news {}
+			.tag-wordpress {}
+			.tag-markup {}
+			]]>
+		</content>
+			<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+			<tabTrigger>wpcss-post-default-style</tabTrigger>
+			<!-- Optional: Set a scope to limit where the snippet will trigger -->
+			<scope>source.css</scope>
+			<description>Post Style - WordPress Default Class</description>
+		</snippet>
+

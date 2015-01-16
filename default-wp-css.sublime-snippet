@@ -1,0 +1,44 @@
+<snippet>
+	<content><![CDATA[
+		.rtl {}
+		.home {}
+		.blog {}
+		.archive {}
+		.date {}
+		.search {}
+		.paged {}
+		.attachment {}
+		.error404 {}
+		.single postid-(id) {}
+		.attachmentid-(id) {}
+		.attachment-(mime-type) {}
+		.author {}
+		.author-(user_nicename) {}
+		.category {}
+		.category-(slug) {}
+		.tag {}
+		.tag-(slug) {}
+		.page-parent {}
+		.page-child parent-pageid-(id) {}
+		.page-template page-template-(template file name) {}
+		.search-results {}
+		.search-no-results {}
+		.logged-in {}
+		.paged-(page number) {}
+		.single-paged-(page number) {}
+		.page-paged-(page number) {}
+		.category-paged-(page number) {}
+		.tag-paged-(page number) {}
+		.date-paged-(page number) {}
+		.author-paged-(page number) {}
+		.search-paged-(page number) {}
+		]]></content>
+
+		<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+		<tabTrigger>wpcss-body-default-class</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<scope>source.css</scope>
+		<description>WordPress Default Body Class Style</description>
+	</snippet>
+
+

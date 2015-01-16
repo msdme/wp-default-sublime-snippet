@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+/*
+Theme Name: ${1:Theme Name}
+Theme URI: http://${2:wordpress.org}
+Author: ${3:Masdi}
+Author URI: http://${4:wordpress.org}
+Description: ${5:No Description}
+Version: ${6:0.1}
+License: ${7:GNU General Public License v2 or later}
+License URI: http://${8:www.gnu.org/licenses/gpl-2.0.html}
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-Theme-Header</tabTrigger>
+	<description>Theme Header - WordPress Default</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
